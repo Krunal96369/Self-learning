@@ -14,12 +14,12 @@ This repository is a documentation of my journey through problem solving on Leet
 - [Search Insert Position](binary_search\search_insert_position.py) - A solution for the "Search Insert Position" problem, implementing a binary search algorithm to find the target value or the insert position in a sorted array.
 
 
-- [Find the Duplicate Number](binary_search\find_the_duplicate_number.py) - Implemented an algorithm to find a duplicate number in an array containing numbers taken from the range 1 to `n`.
-- [First Bad Version](binary_search\first_bad_version.py) - Solved using a binary search approach to minimize the number of calls to an API.
+- [Find the Duplicate Number](binary_search/find_the_duplicate_number.py) - Implemented an algorithm to find a duplicate number in an array containing numbers taken from the range 1 to `n`.
+- [First Bad Version](binary_search/first_bad_version.py) - Solved using a binary search approach to minimize the number of calls to an API.
 - [Guess Number Higher or Lower](binary_search\guess_number_higher_or_lower.py) - An implementation of a classic binary search problem adapted to guessing a number within a range.
-- [Valid Perfect Square](binary_search\valid_perfect_square.py) - Wrote a program to check whether a given number is a perfect square without using any built-in library function.
-- [Pow(x, n)](binary_search\pow_x_n.py) - Implemented the power function that calculates x raised to the power n (x^n).
-- [Sqrt(x)](binary_search\sqrt_x.py) - A solution to compute the square root of x, demonstrating a binary search application.
+- [Valid Perfect Square](binary_search/valid_perfect_square.py) - Wrote a program to check whether a given number is a perfect square without using any built-in library function.
+- [Pow(x, n)](binary_search/pow_x_n.py) - Implemented the power function that calculates x raised to the power n (x^n).
+- [Sqrt(x)](binary_search/sqrt_x.py) - A solution to compute the square root of x, demonstrating a binary search application.
 
 ## How to Use This Repository
 
