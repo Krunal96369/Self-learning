@@ -7,7 +7,12 @@ This repository is a documentation of my journey through problem solving on Leet
 ## Table of Contents
 
 - [Binary Search](#binary-search)
+- [Array](#array)
 
+
+## Array
+
+- [Running Sum of 1D array](array\running_sum_of_1d_array.py) - A solution to the "Running Sum of 1D Array" problem, which calculates the running sum of an array of integers.
 
 ## Binary Search
 
